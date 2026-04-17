@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interview Review"
+  short_description: "Review technical interviews and optimize answers from real materials"
+  default_prompt: "Use this skill to review a technical interview from the user's real materials. Start by building a short candidate profile from the resume and related artifacts, then extract interviewer questions, classify each question, diagnose weaknesses in the original answers, and produce stronger responses without fabricating experience. Default to review mode unless the user explicitly asks for extract_only or optimize."

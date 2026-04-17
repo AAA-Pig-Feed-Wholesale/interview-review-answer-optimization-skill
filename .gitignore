@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+.idea/
+.vscode/
+
+__pycache__/
+*.pyc
+*.pyo
